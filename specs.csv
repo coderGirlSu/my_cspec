@@ -1,0 +1,2 @@
+class,id,name,type,method,initialization_arg_1,method_arg_1,method_arg_2,method_arg_3,expected
+MyStringUtil,MyStringUtil-1.1,my description goes here,instance,hello,,,,,hello
