@@ -1,2 +1,5 @@
-class,id,name,type,method,initialization_arg_1,method_arg_1,method_arg_2,method_arg_3,expected
-MyStringUtil,MyStringUtil-1.1,my description goes here,instance,hello,,,,,hello
+class,id,name,type,method,method_arg_1,expected
+Banana,1,Peel Banana,instance,peel,,peeled
+Banana,2,Eat Banana,instance,eat,,yummy
+Banana,3,Chop Banana,instance,chop,3,chopped into 3 pieces
+Banana,4,Can't Chop,instance,chop,0,i can't do that

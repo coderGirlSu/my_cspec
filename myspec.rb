@@ -7,10 +7,20 @@ require_relative 'clogger'
 #              Code goes here               #
 #############################################
 
-class MyStringUtil
-  def hello
-    'hello'
+class Banana
+  def peel
+    "peeled"
   end
+  def eat
+    "yummy"
+  end
+  def chop(pieces)
+    if pieces == 0
+      return "i can't do that"
+    end
+    "chopped into #{pieces} pieces"
+  end
+
 end
 
 #############################################
